@@ -1,0 +1,12 @@
+Abucay,Bagac,Balanga City,Morong,Samal
+Bagac,Abucay,Balanga City,Limay,Mariveles,Morong,Orion,Pilar,Samal
+Balanga City,Abucay,Bagac,Pilar
+Dinalupihan,Hermosa,Morong
+Hermosa,Dinalupihan,Morong,Orani
+Limay,Bagac,Mariveles,Orion
+Mariveles,Bagac,Limay
+Morong,Abucay,Bagac,Dinalupihan,Hermosa,Orani,Samal
+Orani,Hermosa,Morong,Samal
+Orion,Bagac,Limay,Pilar
+Pilar,Bagac,Balanga City,Orion
+Samal,Abucay,Bagac,Morong,Orani
